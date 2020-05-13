@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SDS 348 Portfolio Website</title>
+    <link>/</link>
+    <description>Recent content on SDS 348 Portfolio Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My New Post</title>
+      <link>/blog/my-new-post/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/my-new-post/</guid>
+      <description>  Put something in here.
+#this is a python code chunk print(&amp;quot;hello world!&amp;quot;) ## hello world! x=&amp;quot;dog&amp;quot; library(reticulate) #this is an R code chunk py$x ## [1] &amp;quot;dog&amp;quot; y&amp;lt;-2 r.y+1 == 3 ## True </description>
+    </item>
+    
+    <item>
+      <title>Project 2: Modeling, Testing, and Predicting</title>
+      <link>/project2/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project2/</guid>
+      <description>Modeling mydata&amp;lt;-read.csv(&amp;quot;iris.csv&amp;quot;) head(mydata) ## X Sepal.Length Sepal.Width Petal.Length Petal.Width Species ## 1 1 5.1 3.5 1.4 0.2 setosa ## 2 2 4.9 3.0 1.4 0.2 setosa ## 3 3 4.7 3.2 1.3 0.2 setosa ## 4 4 4.6 3.1 1.5 0.2 setosa ## 5 5 5.0 3.6 1.4 0.2 setosa ## 6 6 5.4 3.9 1.7 0.4 setosa Instructions A knitted R Markdown document (as a PDF) and the raw R Markdown file (as .</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Projects  Link to project 2  Put something here.</description>
+    </item>
+    
+  </channel>
+</rss>
